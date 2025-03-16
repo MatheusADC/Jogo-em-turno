@@ -3,7 +3,7 @@ O jogo apresenta uma batalha em turno entre personagens, em que um "herói" enfr
 
 Diante disso, foi escolhida a biblioteca _Random_ para gerar, de forma pseudoaleatória, o dano dos ataques do herói e do inimigo, a partir de um _range_ predefinido.
 
-# <img src="https://github.com/user-attachments/assets/2bd91f82-43a7-44c6-8fb3-eaa3ca20089e" alt="ícone da tela do terminal" width="28"> Terminal
+# <sub><img src="https://github.com/user-attachments/assets/2bd91f82-43a7-44c6-8fb3-eaa3ca20089e" alt="ícone da tela do terminal" width="38"></sub> Terminal
 ### Tela 1
 ![image](https://github.com/user-attachments/assets/3dddde37-34f1-4b4a-a8bb-1949eb25dbf8)
 
